@@ -1,6 +1,6 @@
 'use strict';
 
-const applyCustomJoin = require('./arrayMethodJoin');
+const applyCustomJoin = require('../methods/arrayMethodJoin');
 const source = [0, 1, 2, 3];
 
 applyCustomJoin();
